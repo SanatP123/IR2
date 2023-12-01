@@ -55,7 +55,7 @@ public class Index_Query_Eval_latest {
     // Directory where the search index will be saved
     private static String INDEX_DIRECTORY = "index";
     private final static String outputfn = "result";
-    private final static String queryLOC = "topics";
+    private final static String queryLOC = "topics.txt";
 
     private static int MAX_RESULTS = 1000;
 
