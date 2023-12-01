@@ -11,10 +11,11 @@ Participants :
 
 
 
-Build Commands
+Build Commands :
 
-mvn install
-mvn compile
+- mvn install
+  
+- mvn compile
 
 
 Running command :
