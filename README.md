@@ -11,7 +11,7 @@ Running command :
 java -cp target/cs7is3-AYMS.jar com.example.Index_Query_Eval_latest -analyser 4 -score 6
 
 Analysers and Scoring Parameters:
- -analyser
+-analyser
      * 1:StandardAnalyzer
      * 2:WhitespaceAnalyzer
      * 3SimpleAnalyzer
