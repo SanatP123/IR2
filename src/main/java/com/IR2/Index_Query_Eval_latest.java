@@ -1,4 +1,4 @@
-package com.example;
+package IR2;
 
 import java.io.BufferedReader;
 import java.io.ByteArrayInputStream;
@@ -64,7 +64,7 @@ public class Index_Query_Eval_latest {
     private final static String FTLoc = "Assignment Two/ft";
     private final static String FR94Loc = "Assignment Two/fr94";
 
-    private final static String trec_eval = "trec_eval-9.0.7";
+    private final static String trec_eval = "trec_eval-9.0.7/trec_eval";
     private final static String qrelLoc = "qrels.assignment2.part1";
 
     private static Analyzer globAnalyzer = null;
