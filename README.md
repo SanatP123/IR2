@@ -1,6 +1,16 @@
 # IR2
 Information Retrieval Project Group AYMS
 
+Group Name : AYMS
+
+Participants :
+- Maxime Mu
+- Yifan Jiang
+-  Akash Garg
+- Sanat Pradeep Paranjape
+
+
+
 Build Commands
 
 mvn install
@@ -8,7 +18,7 @@ mvn compile
 
 
 Running command :
-java -cp target/cs7is3-AYMS.jar com.example.Index_Query_Eval_latest -analyser 4 -score 6
+java -cp target/cs7is3-AYMS.jar IR2.Index_Query_Eval_latest -analyser 4 -score 6
 
 Analysers and Scoring Parameters:
 
@@ -30,3 +40,11 @@ Analysers and Scoring Parameters:
      * 5:AxiomaticF2EXP
      * 6:MultiSimilarity
      * default:MultiSimilarity
+
+
+Working code submitted on the VM (Sanat Paranjape's VM : @paranjas).
+Best Results :
+
+       - map = 0.3050
+
+       - P_5 = 0.6000
